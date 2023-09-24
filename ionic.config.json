@@ -1,0 +1,8 @@
+{
+  "name": "VotoCerto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5c14d96e"
+}
