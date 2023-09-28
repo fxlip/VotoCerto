@@ -1,9 +1,13 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "voto-certo",
 =======
   "name": "VotoCerto",
 >>>>>>> d84330e (first scripts ionic)
+=======
+  "name": "VotoCerto",
+>>>>>>> 5816f7b (Initial commit)
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
