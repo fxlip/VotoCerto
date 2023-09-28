@@ -3,6 +3,11 @@
   "integrations": {
     "capacitor": {}
   },
+<<<<<<< HEAD
   "type": "angular",
   "id": "5c14d96e"
 }
+=======
+  "type": "angular"
+}
+>>>>>>> d84330e (first scripts ionic)

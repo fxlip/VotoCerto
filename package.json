@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "voto-certo",
+=======
+  "name": "VotoCerto",
+>>>>>>> d84330e (first scripts ionic)
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
